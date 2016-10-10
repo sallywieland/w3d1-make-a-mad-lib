@@ -16,7 +16,7 @@ var cityDweller = true;
 var yearsInCollege = 4;
 // var hsGraduation = 2011;
 var hsGraduation = new Date();
-    hsGraduation.setFullYear(2011, 5, 20);
+    hsGraduation.setFullYear(2011);
 var numberOfPets = 2;
 var numberOfChildren = 0;
 var favoriteMusicGenre = 'Hip-Hop';
